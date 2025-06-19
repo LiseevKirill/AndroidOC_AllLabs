@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Lab2" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Можеш додати власні кольори, шрифти тощо -->
+    </style>
+</resources>
